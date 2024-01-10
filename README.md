@@ -7,7 +7,11 @@ Employing Power BI, this project delves into eBay Motors' preowned car sales dat
 3) Employed DAX queries to create time series and quatitative explicit measures.
 4) Created a two page Dashboard using various visualization charts to find the valuable sales insights.
 5) Provided recommendations on four types of sales:
+
    a) High volume, high sales
+
    b) High volume, low sales
+
    c) Low volume, high sales and
+
    d) Low volume, low sales
